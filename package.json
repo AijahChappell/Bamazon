@@ -20,9 +20,9 @@
   "homepage": "https://github.com/AijahChappell/Bamazon#readme",
   "dependencies": {
     "express": "^4.17.1",
-    "mysql2": "^1.6.5",
+    "mysql2": "^1.7.0",
     "path": "^0.12.7",
-    "sequelize": "^5.16.0",
+    "sequelize": "^5.17.0",
     "sequelize-cli": "^5.5.0"
   }
 }

@@ -57,7 +57,7 @@ $(document).on("click", ".submit", function(product) {
             data: updatedProduct
         }).then(function() {
             $("#error").empty();
-            $("#error").append(<'<p style = "color:green">Thank you, your order has been submitted.');
+            $("#error").append('<p style = "color:green">Thank you, your order has been submitted.');
         })
     }
 });
