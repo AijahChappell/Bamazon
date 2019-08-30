@@ -18,43 +18,43 @@
         "stock_quantity": 10
     },
     {
-        "product_name": "Laptop",
+        "product_name": "Sticker Pack",
         "department_name": "gifts",
-        "price": 300,
+        "price": 5,
         "stock_quantity": 10
     },
     {
-        "product_name": "Mouse",
+        "product_name": "Mug",
         "department_name": "gifts",
         "price": 6,
         "stock_quantity": 10
     },
     {
-        "product_name": "Monitor",
+        "product_name": "Notebook",
         "department_name": "gifts",
-        "price": 150,
+        "price": 5,
         "stock_quantity": 10
     },
     {
-        "product_name": "Laptop Bag",
+        "product_name": "Tote Bag",
         "department_name": "gifts",
-        "price": 45,
+        "price": 6,
         "stock_quantity": 10
     },
     {
-        "product_name": "Heroku",
+        "product_name": "Kettle Corner",
         "department_name": "books",
         "price": 3,
         "stock_quantity": 10
     },
     {
-        "product_name": "MySQL for Dummies",
+        "product_name": "Touch-Up",
         "department_name": "books",
         "price": 3,
         "stock_quantity": 10
     },
     {
-        "product_name": "How to Code",
+        "product_name": "Extraction",
         "department_name": "books",
         "price": 3,
         "stock_quantity": 10

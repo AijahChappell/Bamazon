@@ -11,7 +11,7 @@ module.exports = function(app) {
     app.get("/api/products/:name", function(req, res) {
         db.Product.findOne({
             where: {
-                product_name: req.params.product_name
+                product_name: req.params.name
             }
         }).then(function(result) {
             res.json(result);
