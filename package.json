@@ -19,7 +19,7 @@
   },
   "homepage": "https://github.com/AijahChappell/Bamazon#readme",
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "mysql2": "^1.7.0",
     "path": "^0.12.7",
     "sequelize": "^5.17.0",
